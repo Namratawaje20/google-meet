@@ -11,7 +11,6 @@ body {
      margin: 0 auto; 
     
 }
-/* Centering the container and styling */
 #search-container {
     padding: 10px;
     width: 500px;
@@ -25,7 +24,6 @@ body {
     height: 8vh; 
 }
 
-/* Styling the search bar */
 #search {
     padding: 12px;
     width: 100%; 
