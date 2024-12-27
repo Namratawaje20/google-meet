@@ -16,6 +16,10 @@ const participants = [
       { name: 'Tanuja', image: 'woman-2.png' },
       { name: 'Sumit', image: 'boy-2.png' },
       { name: 'Deven', image: 'woman-1.png'},
+      { name: 'Tushar', image: 'boy-1.png' },
+      { name: 'sudarshan', image: 'boy-2.png' },
+      { name: 'santu', image: 'boy-1.png' },
+      { name: 'Megha', image: 'woman-2.png' },
     ];
     
     const participantsContainer = document.getElementById('participants-container');
